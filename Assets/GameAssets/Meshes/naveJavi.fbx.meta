@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 34cbd9b5ae3fe14448527790ae8a73b3
+timeCreated: 1484828045
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: "ca\xF1ones_lasers"
+    100002: "ca\xF1ones_lasers_2"
+    100004: cola
+    100006: cola_2
+    100008: cola_3
+    100010: cola_4
+    100012: cola_5
+    100014: cola_6
+    100016: cristales
+    100018: cristales_2
+    100020: enemigo
+    100022: interior_nave
+    100024: interior_nave_2
+    100026: mesa
+    100028: mesa_2
+    100030: motor
+    100032: motor_2
+    100034: motores
+    100036: motores_2
+    100038: nave
+    100040: nave_2
+    100042: nave_3
+    100044: nave_nodriza
+    100046: nave_nodriza_2
+    100048: nave_nodriza_3
+    100050: nave_nodriza_4
+    100052: //RootNode
+    100054: pantallas
+    100056: pantallas_2
+    100058: sillas
+    100060: sillas_2
+    400000: "ca\xF1ones_lasers"
+    400002: "ca\xF1ones_lasers_2"
+    400004: cola
+    400006: cola_2
+    400008: cola_3
+    400010: cola_4
+    400012: cola_5
+    400014: cola_6
+    400016: cristales
+    400018: cristales_2
+    400020: enemigo
+    400022: interior_nave
+    400024: interior_nave_2
+    400026: mesa
+    400028: mesa_2
+    400030: motor
+    400032: motor_2
+    400034: motores
+    400036: motores_2
+    400038: nave
+    400040: nave_2
+    400042: nave_3
+    400044: nave_nodriza
+    400046: nave_nodriza_2
+    400048: nave_nodriza_3
+    400050: nave_nodriza_4
+    400052: //RootNode
+    400054: pantallas
+    400056: pantallas_2
+    400058: sillas
+    400060: sillas_2
+    2300000: "ca\xF1ones_lasers"
+    2300002: "ca\xF1ones_lasers_2"
+    2300004: cola
+    2300006: cola_2
+    2300008: cola_3
+    2300010: cola_4
+    2300012: cola_5
+    2300014: cola_6
+    2300016: cristales
+    2300018: cristales_2
+    2300020: interior_nave
+    2300022: interior_nave_2
+    2300024: mesa
+    2300026: mesa_2
+    2300028: motor
+    2300030: motor_2
+    2300032: motores
+    2300034: motores_2
+    2300036: nave
+    2300038: nave_3
+    2300040: nave_nodriza_2
+    2300042: nave_nodriza_3
+    2300044: nave_nodriza_4
+    2300046: pantallas
+    2300048: pantallas_2
+    2300050: sillas
+    2300052: sillas_2
+    3300000: "ca\xF1ones_lasers"
+    3300002: "ca\xF1ones_lasers_2"
+    3300004: cola
+    3300006: cola_2
+    3300008: cola_3
+    3300010: cola_4
+    3300012: cola_5
+    3300014: cola_6
+    3300016: cristales
+    3300018: cristales_2
+    3300020: interior_nave
+    3300022: interior_nave_2
+    3300024: mesa
+    3300026: mesa_2
+    3300028: motor
+    3300030: motor_2
+    3300032: motores
+    3300034: motores_2
+    3300036: nave
+    3300038: nave_3
+    3300040: nave_nodriza_2
+    3300042: nave_nodriza_3
+    3300044: nave_nodriza_4
+    3300046: pantallas
+    3300048: pantallas_2
+    3300050: sillas
+    3300052: sillas_2
+    4300000: nave_nodriza_2
+    4300002: nave_nodriza_3
+    4300004: nave_nodriza_4
+    4300006: motores
+    4300008: motor
+    4300010: "ca\xF1ones_lasers"
+    4300012: sillas
+    4300014: nave
+    4300016: interior_nave
+    4300018: cola
+    4300020: cola_2
+    4300022: cola_3
+    4300024: mesa
+    4300026: pantallas
+    4300028: cristales
+    4300030: motores_2
+    4300032: motor_2
+    4300034: "ca\xF1ones_lasers_2"
+    4300036: sillas_2
+    4300038: nave_3
+    4300040: interior_nave_2
+    4300042: cola_4
+    4300044: cola_5
+    4300046: cola_6
+    4300048: mesa_2
+    4300050: pantallas_2
+    4300052: cristales_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
